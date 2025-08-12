@@ -1,0 +1,80 @@
+export const sampleEvents = [
+  {
+    id: "1",
+    title: "Tech Innovation Summit 2024",
+    description: "Join industry leaders for cutting-edge discussions on AI, blockchain, and the future of technology.",
+    date: "2024-03-15",
+    time: "09:00",
+    location: "Silicon Valley Convention Center",
+    image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    category: "Technology",
+    attendees: 245,
+    maxAttendees: 300,
+    price: 299
+  },
+  {
+    id: "2",
+    title: "Creative Design Workshop",
+    description: "Learn advanced design techniques from renowned artists and boost your creative skills.",
+    date: "2024-03-18",
+    time: "14:00",
+    location: "Downtown Art Gallery",
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    category: "Arts & Culture",
+    attendees: 45,
+    maxAttendees: 50,
+    price: 89
+  },
+  {
+    id: "3",
+    title: "Startup Networking Night",
+    description: "Connect with entrepreneurs, investors, and innovators in a relaxed evening atmosphere.",
+    date: "2024-03-20",
+    time: "18:30",
+    location: "The Innovation Hub",
+    image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    category: "Networking",
+    attendees: 128,
+    maxAttendees: 150,
+    price: 0
+  },
+  {
+    id: "4",
+    title: "Digital Marketing Masterclass",
+    description: "Master the latest digital marketing strategies and grow your business online presence.",
+    date: "2024-03-22",
+    time: "10:00",
+    location: "Business Center Plaza",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    category: "Business",
+    attendees: 89,
+    maxAttendees: 100,
+    price: 199
+  },
+  {
+    id: "5",
+    title: "Sustainable Living Conference",
+    description: "Explore eco-friendly solutions and sustainable practices for a better tomorrow.",
+    date: "2024-03-25",
+    time: "09:30",
+    location: "Green Convention Center",
+    image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    category: "Educational",
+    attendees: 156,
+    maxAttendees: 200,
+    price: 75
+  },
+  {
+    id: "6",
+    title: "Music Festival Vibes",
+    description: "Experience amazing live performances from local and international artists.",
+    date: "2024-03-28",
+    time: "16:00",
+    location: "Central Park Amphitheater",
+    image: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    category: "Entertainment",
+    attendees: 1420,
+    maxAttendees: 2000,
+    price: 125
+  }
+];
